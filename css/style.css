@@ -1,5 +1,6 @@
 @import "null.css";
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
 body {
 	font-family: "Lato", sans-serif;
 	line-height: 1.6;
@@ -22,9 +23,6 @@ font-weight: 700;
 font-size: 20px;
 line-height: 1.5;
 color: #1E212C;
-}
-.quote {
-	text-indent: 58px;
 }
 .list {
 	text-indent: 30px;
